@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p></p>
 
 ---
 ### Certification
@@ -43,7 +44,14 @@ Languages & Technologies: `Angular`, `AWS`, `JavaScript`, `.NetCore`, `Oracle Da
 <br/>
 <br/>
 
+---
+### Where to find me
 Please find me on [LinkedIn](https://www.linkedin.com/in/rodrigonappi/) for a more detailed description of my full work experience, education and certification.
+<p>
+  <a href="https://www.linkedin.com/in/rodrigonappi" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <!--
 **rnappi/rnappi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
