@@ -28,6 +28,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="85px" width="85px" alt="Loft" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGiQ-QSd-etzg/company-logo_200_200/0/1628465595283?e=1651708800&v=beta&t=ttdN4SdIV4xNT3O7wjAkBxmUjL_tOciKWX9FpAQG3T8"/>](https://www.loft.com.br/)
 
 **Staff Software Engineer** • [**Loft**](https://www.loft.com.br/) \
+Mar 2022 - Present \
 Languages & Technologies: `AWS`, `Docker`, `JavaScript`, `NodeJs`, `React`, `TypeScript` \
 <br/>
 <br/>
@@ -35,6 +36,7 @@ Languages & Technologies: `AWS`, `Docker`, `JavaScript`, `NodeJs`, `React`, `Typ
 [<img align="left" height="85px" width="85px" alt="Itaú" src="https://media-exp1.licdn.com/dms/image/C560BAQGW-IXV9aAHAg/company-logo_200_200/0/1635286588644?e=1651708800&v=beta&t=j-3KeQVOAHWfaHhMEH25-vAe9isl_8m3_3w3NdEUufM"/>](https://www.itau.com.br/)
 
 **Senior Software Engineer** • [**Itaú**](https://www.itau.com.br/) \
+Jun 2020 - Feb 2022 \
 Languages & Technologies: `Angular`, `AWS`, `Docker`, `JavaScript`, `.NetCore`, `Puppet`, `Terraform`, `TypeScript` \
 <br/>
 <br/>
@@ -42,6 +44,7 @@ Languages & Technologies: `Angular`, `AWS`, `Docker`, `JavaScript`, `.NetCore`, 
 [<img align="left" height="85px" width="85px" alt="Scania Latin America" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHfClu1qxbSXw/company-logo_200_200/0/1581615543576?e=1651708800&v=beta&t=GC7agHgEsEaHPoHAwCeMDOT6rhwvfr5dwdBZVSTCisY"/>](https://www.scania.com/latinamerica/)
 
 **Senior Fullstack Developer** • [**Scania Latin America**](https://www.scania.com/latinamerica/) \
+Jul 2019 - May 2020 \
 Languages & Technologies: `Angular`, `AWS`, `JavaScript`, `.NetCore`, `Oracle DataBase`, `TypeScript` \
 <br/>
 <br/>
