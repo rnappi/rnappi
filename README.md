@@ -29,7 +29,7 @@ In the overview below you will find my most recent work experience:
 
 **Staff Software Engineer** • [**Loft**](https://www.loft.com.br/) \
 Mar 2022 - Present \
-Languages & Technologies: `AWS`, `Docker`, `JavaScript`, `NodeJs`, `React`, `TypeScript` \
+Languages & Technologies: `AWS`, `Docker`, `JavaScript`, `NestJs`, `NodeJs`, `React`, `Terraform`, `TypeScript` \
 <br/>
 <br/>
 
