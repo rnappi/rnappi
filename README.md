@@ -25,7 +25,7 @@ Expires on 15 November 2024 \
 ## Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="85px" width="85px" alt="Loft" src="https://media-exp1.licdn.com/dms/image/C560BAQE8ZhIJTrRrWw/company-logo_100_100/0/1654544824057?e=1663200000&v=beta&t=iGnSYDlGrJxhf3jxkh8Qk2KuxqJ31GSY0OzAsiv29tI"/>](https://www.loft.com.br/)
+[<img align="left" height="85px" width="85px" alt="Loft" src="/assets/loft.png"/>](https://www.loft.com.br/)
 
 **Staff Software Engineer** • [**Loft**](https://www.loft.com.br/) \
 Mar 2022 - Present \
@@ -33,7 +33,7 @@ Languages & Technologies: `AWS`, `Docker`, `Kubernetes`, `NestJs`, `NodeJs`, `Pu
 <br/>
 <br/>
 
-[<img align="left" height="85px" width="85px" alt="Itaú" src="https://media-exp1.licdn.com/dms/image/C560BAQGW-IXV9aAHAg/company-logo_100_100/0/1635286588644?e=1663200000&v=beta&t=gH_bZ8zZVRE4niwCS8LA0Jid3Lwvmvc9xfrX4m3T2AE"/>](https://www.itau.com.br/)
+[<img align="left" height="85px" width="85px" alt="Itaú" src="/assets/itau.webp"/>](https://www.itau.com.br/)
 
 **Senior Software Engineer** • [**Itaú**](https://www.itau.com.br/) \
 Jun 2020 - Feb 2022 \
@@ -41,7 +41,7 @@ Languages & Technologies: `Angular`, `AWS`, `Docker`, `JavaScript`, `.NetCore`, 
 <br/>
 <br/>
 
-[<img align="left" height="85px" width="85px" alt="Scania Latin America" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHfClu1qxbSXw/company-logo_200_200/0/1581615543576?e=1663200000&v=beta&t=g-m608jCdHSzUlyGr6_fjyWd9fuIv_71JB8pK1Dwmmk"/>](https://www.scania.com/latinamerica/)
+[<img align="left" height="85px" width="85px" alt="Scania Latin America" src="/assets/scania.jpg"/>](https://www.scania.com/latinamerica/)
 
 **Senior Fullstack Developer** • [**Scania Latin America**](https://www.scania.com/latinamerica/) \
 Jul 2019 - May 2020 \
