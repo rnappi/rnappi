@@ -1,5 +1,5 @@
 ## Hi there 👋
-Aqui vai a minha apresentação.
+I am a seasoned software engineer with 20+ years of experience and proven development and architecture skills. I have worked in different industries (e.g automotive, finance, real estate and education) on more than 30 projects and 20 different clients, developing enterprise systems, cloud microservices applications and SaaS platforms, helping these customers to identify, design and implement leading-edge solutions.
 
 ---
 
