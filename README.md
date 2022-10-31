@@ -6,14 +6,14 @@ I am a seasoned software engineer with 20+ years of experience and proven develo
 ## Certification
 My most recent certifications:
 
-[<img align="left" height="85px" width="85px" alt="AWS Certified Solutions Architect" src="https://images.credly.com/size/110x110/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"/>](https://www.credly.com/badges/d71fbbea-7ee9-4776-a3d9-4d42ea1e6da3/public_url/)
+[<img align="left" height="85px" width="85px" alt="AWS Certified Solutions Architect" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>](https://www.credly.com/badges/d71fbbea-7ee9-4776-a3d9-4d42ea1e6da3/public_url/)
 
 **AWS Certified Solutions Architect – Associate** \
 Issued by: [Amazon Web Services Training and Certification](https://aws.amazon.com/training/) \
 Expires on 15 November 2024 \
 <br/>
 
-[<img align="left" height="85px" width="85px" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png"/>](https://www.credly.com/badges/f42fe6b3-a601-4219-880b-aeb72702a38f/public_url/)
+[<img align="left" height="85px" width="85px" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>](https://www.credly.com/badges/f42fe6b3-a601-4219-880b-aeb72702a38f/public_url/)
 
 **AWS Certified Cloud Practitioner** \
 Issued by: [Amazon Web Services Training and Certification](https://aws.amazon.com/training/) \
