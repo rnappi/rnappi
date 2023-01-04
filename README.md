@@ -28,7 +28,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="85px" width="85px" alt="Nubank" src="/assets/nubank.png"/>](https://www.nubank.com.br/)
 
 **Lead Software Engineer** • [**Nubank**](https://www.nubank.com.br/) \
-Mar 2022 - Dec 2022 \
+Jan 2023 - Present \
 <br/>
 <br/>
 
