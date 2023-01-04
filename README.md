@@ -32,6 +32,8 @@ Mar 2022 - Dec 2022 \
 <br/>
 <br/>
 
+[<img align="left" height="85px" width="85px" alt="Loft" src="/assets/loft.png"/>](https://www.loft.com.br/)
+
 **Staff Software Engineer** • [**Loft**](https://www.loft.com.br/) \
 Mar 2022 - Dec 2022 \
 Languages & Technologies: `AWS`, `Docker`, `Kubernetes`, `NestJs`, `NodeJs`, `Pulumi`, `React`, `Terraform`, `TypeScript` \
