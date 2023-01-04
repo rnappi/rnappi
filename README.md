@@ -29,6 +29,7 @@ In the overview below you will find my most recent work experience:
 
 **Lead Software Engineer** • [**Nubank**](https://www.nubank.com.br/) \
 Jan 2023 - Present \
+Languages & Technologies: \
 <br/>
 <br/>
 
